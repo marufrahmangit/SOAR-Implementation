@@ -1,4 +1,4 @@
-<center>Steps to Implement Splunk SOAR in a Cloud Environment for a Web Application</center>
+# Steps to Implement Splunk SOAR in a Cloud Environment for a Web Application
 
 ## 1. Set Up Splunk SOAR
 
